@@ -1,3 +1,5 @@
+Susie Smith
+Streaming 
 # streaming-02-multiple-processes
 
 > Multiple processes accessing a shared resource concurrently
@@ -11,7 +13,7 @@ hitting a shared database at the same time.
 
 ## Prerequisites
 
-1. Git
+1. Git 
 1. Python 3.7+ (3.11+ preferred)
 1. VS Code Editor
 1. VS Code Extension: Python (by Microsoft)
@@ -39,14 +41,28 @@ Execute multiple_processes.py.
 Read the output. Read the code. 
 Try to figure out what's going on. 
 
-1. What libraries did we import?
-1. Where do we set the TASK_DURATION_SECONDS?
-1. How many functions are defined? 
-1. What are the function names? 
-1. In general, what does each function do? 
-1. Where does the execution begin? Hint: generally at the end of the file.
-1. How many processes do we start?
-1. How many records does each process insert?
+1. What libraries did we import? 
+    We imported datetime, logging, multiprocessing, os, platform, sqlite3, sys and time
+2. Where do we set the TASK_DURATION_SECONDS?
+    We set this on line 40 of the code
+3. How many functions are defined? 
+    7 functions are defined
+4. What are the function names? 
+    recreate_database
+    create_table
+    drop_table
+    insert_pet
+    process_one
+    process_two
+    process_three
+5. In general, what does each function do? 
+    Each function does what the function is called
+6. Where does the execution begin? Hint: generally at the end of the file.
+    When we run the function p1.start()
+7. How many processes do we start?
+    We start 3 processes
+8. How many records does each process insert?
+    2 records for each process
 
 In this first run, we start 3 processes, 
 each inserting 2 records into a shared database 
@@ -120,14 +136,14 @@ and share them in our discussion.
 Python has pretty helpful error messages. 
 When you get an error, read them carefully. 
 
-- What error do you get?
+- What error do you get? - In this module I got the database is locked error message
 
 ### Database Is Locked Error
 
 Do a web search on the sqlite3 'database is locked' error.
 
 - What do you learn?
-- Once a process fails, it crashes the main process and everything stops. 
+    The source of contention is internal and comes from the same database connection. Once a process fails, it crashes the main process and everything stops. 
 
 ### Deadlock
 
