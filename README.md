@@ -156,3 +156,7 @@ with no process able to move forward and make progress.
 ### Learn More
 
 Check out Wikipedia's article on deadlock and other sources to learn how to prevent and avoid locking issues in concurrent processes. 
+
+### Custom Stream from CSV Script
+I streamed my own unique CSV data by modifying the example approach provided by the module.
+The files created were the python script: process_streaming_SusieSmith.py and out9.txt.
