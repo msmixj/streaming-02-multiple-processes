@@ -1,0 +1,130 @@
+C:\Users\15152\ds-venv\streaming-02-multiple-processes>C:/Users/15152/AppData/Local/Programs/Python/Python311/python.exe c:/Users/15152/ds-venv/streaming-02-multiple-processes/process_streaming_SusieSmith.py
+
+C:\Users\15152\ds-venv\streaming-02-multiple-processes>C:/Users/15152/AppData/Local/Programs/Python/Python311/python.exe c:/Users/15152/ds-venv/streaming-02-multiple-processes/process_streaming_SusieSmith.py
+2024-05-12 20:05:09,124 - INFO - ===============================================
+2024-05-12 20:05:09,124 - INFO - Starting streaming process.
+2024-05-12 20:05:09,125 - INFO - Starting to stream data from olympic_results.csv to ('localhost', 9999).
+2024-05-12 20:05:09,125 - INFO - Opened for reading: olympic_results.csv.
+2024-05-12 20:05:09,126 - INFO - Skipped header row: ['Gender', 'Event', 'Location', 'Year', 'Medal', 'Name', 'Nationality', 'Result']
+2024-05-12 20:05:09,127 - ERROR - An error occurred: too many values to unpack (expected 7)
+
+C:\Users\15152\ds-venv\streaming-02-multiple-processes>C:/Users/15152/AppData/Local/Programs/Python/Python311/python.exe c:/Users/15152/ds-venv/streaming-02-multiple-processes/process_streaming_SusieSmith.py
+2024-05-12 20:06:16,357 - INFO - ===============================================
+2024-05-12 20:06:16,358 - INFO - Starting streaming process.
+2024-05-12 20:06:16,359 - INFO - Starting to stream data from olympic_results.csv to ('localhost', 9999).
+2024-05-12 20:06:16,359 - INFO - Opened for reading: olympic_results.csv.
+2024-05-12 20:06:16,360 - INFO - Skipped header row: ['Gender', 'Event', 'Location', 'Year', 'Medal', 'Name', 'Nationality', 'Result']
+2024-05-12 20:06:16,366 - INFO - Sent: b'[W, 10000M Women, Rio, 2016, G, Almaz AYANA, ETH, 29:17.4]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:19,368 - INFO - Sent: b'[W, 10000M Women, Rio, 2016, S, Vivian Jepkemoi CHERUIYOT, KEN, 29:32.5]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:22,372 - INFO - Sent: b'[W, 10000M Women, Rio, 2016, B, Tirunesh DIBABA, ETH, 29:42.6]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:25,375 - INFO - Sent: b'[W, 10000M Women, Beijing, 2008, G, Tirunesh DIBABA, ETH, 29:54.7]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:28,377 - INFO - Sent: b'[W, 10000M Women, Beijing, 2008, S, Elvan ABEYLEGESSE, TUR, 29:56.3]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:31,379 - INFO - Sent: b'[W, 10000M Women, Beijing, 2008, B, Shalane FLANAGAN, USA, 30:22.2]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:34,384 - INFO - Sent: b'[W, 10000M Women, Sydney, 2000, G, Derartu TULU, ETH, 30:17.5]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:37,387 - INFO - Sent: b'[W, 10000M Women, Sydney, 2000, S, Gete WAMI, ETH, 30:22.5]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:40,391 - INFO - Sent: b'[W, 10000M Women, Sydney, 2000, B, Fernanda RIBEIRO, POR, 30:22.9]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:43,395 - INFO - Sent: b'[W, 10000M Women, Barcelona, 1992, G, Derartu TULU, ETH, 31:06.0]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:46,396 - INFO - Sent: b'[W, 10000M Women, Barcelona, 1992, S, Elana MEYER, RSA, 31:11.7]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:49,399 - INFO - Sent: b'[W, 10000M Women, Barcelona, 1992, B, Lynn JENNINGS, USA, 31:19.9]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:52,401 - INFO - Sent: b'[W, 10000M Women, London, 2012, G, Tirunesh DIBABA, ETH, 30:20.8]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:55,405 - INFO - Sent: b'[W, 10000M Women, London, 2012, S, Sally Jepkosgei KIPYEGO, KEN, 30:26.4]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:06:58,408 - INFO - Sent: b'[W, 10000M Women, London, 2012, B, Vivian Jepkemoi CHERUIYOT, KEN, 30:30.4]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:01,411 - INFO - Sent: b'[W, 10000M Women, Athens, 2004, G, Huina XING, CHN, 30:24.4]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:04,413 - INFO - Sent: b'[W, 10000M Women, Athens, 2004, S, Ejegayehu DIBABA, ETH, 30:25.0]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:07,416 - INFO - Sent: b'[W, 10000M Women, Athens, 2004, B, Derartu TULU, ETH, 30:26.4]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:10,418 - INFO - Sent: b'[W, 10000M Women, Atlanta, 1996, G, Fernanda RIBEIRO, POR, 31:01.6]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:13,421 - INFO - Sent: b'[W, 10000M Women, Atlanta, 1996, S, Junxia WANG, CHN, 31:02.6]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:16,424 - INFO - Sent: b'[W, 10000M Women, Atlanta, 1996, B, Gete WAMI, ETH, 31:06.7]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:19,426 - INFO - Sent: b'[W, 100M Hurdles Women, Rio, 2016, G, Brianna ROLLINS, USA, 12.48]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:22,429 - INFO - Sent: b'[W, 100M Hurdles Women, Rio, 2016, S, Nia ALI, USA, 12.59]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:25,431 - INFO - Sent: b'[W, 100M Hurdles Women, Rio, 2016, B, Kristi CASTLIN, USA, 12.61]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:28,435 - INFO - Sent: b'[W, 100M Hurdles Women, Beijing, 2008, G, Dawn HARPER, USA, 12.54]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:31,436 - INFO - Sent: b'[W, 100M Hurdles Women, Beijing, 2008, S, Sally PEARSON, AUS, 12.64]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:34,440 - INFO - Sent: b'[W, 100M Hurdles Women, Beijing, 2008, B, Priscilla LOPES-SCHLIEP, CAN, 12.64]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:37,442 - INFO - Sent: b'[W, 100M Hurdles Women, Sydney, 2000, G, Olga SHISHIGINA, KAZ, 12.65]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:40,444 - INFO - Sent: b'[W, 100M Hurdles Women, Sydney, 2000, S, Gloria ALOZIE, NGR, 12.68]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:43,447 - INFO - Sent: b'[W, 100M Hurdles Women, Sydney, 2000, B, Melissa MORRISON, USA, 12.76]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:46,449 - INFO - Sent: b'[W, 100M Hurdles Women, Barcelona, 1992, G, Voula PATOULIDOU, GRE, 12.64]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:49,452 - INFO - Sent: b'[W, 100M Hurdles Women, Barcelona, 1992, S, LaVonna MARTIN, USA, 12.69]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:52,456 - INFO - Sent: b'[W, 100M Hurdles Women, Barcelona, 1992, B, Yordanka DONKOVA, BUL, 12.7]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:55,458 - INFO - Sent: b'[W, 100M Hurdles Women, Los Angeles, 1984, G, Benita FITZGERALD-BROWN, USA, 12.84]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:07:58,461 - INFO - Sent: b'[W, 100M Hurdles Women, Los Angeles, 1984, S, Shirley STRONG, GBR, 12.88]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:01,463 - INFO - Sent: b'[W, 100M Hurdles Women, Los Angeles, 1984, B, Mich\xc3\x83\xc6\x92\xc3\x82\xc2\xa8le CHARDONNET, FRA, 13.06]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:04,465 - INFO - Sent: b'[W, 100M Hurdles Women, Los Angeles, 1984, B, Kim TURNER, USA, 13.06]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:07,468 - INFO - Sent: b'[W, 100M Hurdles Women, Montreal, 1976, G, Johanna SCHALLER-KLIER, GDR, 12.77]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:10,472 - INFO - Sent: b'[W, 100M Hurdles Women, Montreal, 1976, S, Tatiana ANISIMOVA, URS, 12.78]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:13,474 - INFO - Sent: b'[W, 100M Hurdles Women, Montreal, 1976, B, Natalya LEBEDEVA, URS, 12.8]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:16,475 - INFO - Sent: b'[W, 100M Hurdles Women, London, 2012, G, Sally PEARSON, AUS, 12.35]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:19,479 - INFO - Sent: b'[W, 100M Hurdles Women, London, 2012, S, Dawn HARPER, USA, 12.37]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:22,482 - INFO - Sent: b'[W, 100M Hurdles Women, London, 2012, B, Kellie WELLS, USA, 12.48]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:25,484 - INFO - Sent: b'[W, 100M Hurdles Women, Athens, 2004, G, Joanna HAYES, USA, 12.37]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:28,487 - INFO - Sent: b'[W, 100M Hurdles Women, Athens, 2004, S, Olena KRASOVSKA, UKR, 12.45]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:31,489 - INFO - Sent: b'[W, 100M Hurdles Women, Athens, 2004, B, Melissa MORRISON, USA, 12.56]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:34,493 - INFO - Sent: b'[W, 100M Hurdles Women, Atlanta, 1996, G, Ludmila ENGQUIST, SWE, 12.58]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:37,495 - INFO - Sent: b'[W, 100M Hurdles Women, Atlanta, 1996, S, Brigita BUKOVEC, SLO, 12.59]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:40,498 - INFO - Sent: b'[W, 100M Hurdles Women, Atlanta, 1996, B, Patricia GIRARD, FRA, 12.65]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:43,499 - INFO - Sent: b'[W, 100M Hurdles Women, Moscow, 1980, G, Vera KOMISOVA, URS, 12.56]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:46,502 - INFO - Sent: b'[W, 100M Hurdles Women, Moscow, 1980, S, Johanna SCHALLER-KLIER, GDR, 12.63]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:49,504 - INFO - Sent: b'[W, 100M Hurdles Women, Moscow, 1980, B, Lucyna LANGER, POL, 12.65]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:52,506 - INFO - Sent: b'[W, 100M Hurdles Women, Munich, 1972, G, Annelie EHRHARDT, GDR, 12.59]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:55,510 - INFO - Sent: b'[W, 100M Hurdles Women, Munich, 1972, S, Valeria BUFANU, ROU, 12.84]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:08:58,512 - INFO - Sent: b'[W, 100M Hurdles Women, Munich, 1972, B, Karin RICHERT-BALZER, GDR, 12.9]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:01,516 - INFO - Sent: b'[W, 100M Women, Rio, 2016, G, Elaine THOMPSON, JAM, 10.71]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:04,518 - INFO - Sent: b'[W, 100M Women, Rio, 2016, S, Tori BOWIE, USA, 10.83]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:07,521 - INFO - Sent: b'[W, 100M Women, Rio, 2016, B, Shelly-Ann FRASER-PRYCE, JAM, 10.86]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:10,523 - INFO - Sent: b'[W, 100M Women, Beijing, 2008, G, Shelly-Ann FRASER-PRYCE, JAM, 10.78]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:13,525 - INFO - Sent: b'[W, 100M Women, Beijing, 2008, S, Sherone SIMPSON, JAM, 10.98]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:16,527 - INFO - Sent: b'[W, 100M Women, Beijing, 2008, S, Kerron STEWART, JAM, 10.98]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:19,530 - INFO - Sent: b'[W, 100M Women, Sydney, 2000, S, Ekaterini THANOU, GRE, 11.12]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:22,536 - INFO - Sent: b'[W, 100M Women, Sydney, 2000, S, Tanya LAWRENCE, JAM, 11.18]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:25,538 - INFO - Sent: b'[W, 100M Women, Sydney, 2000, B, Merlene OTTEY, JAM, 11.19]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:28,540 - INFO - Sent: b'[W, 100M Women, Barcelona, 1992, G, Gail DEVERS, USA, 10.82]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:31,544 - INFO - Sent: b'[W, 100M Women, Barcelona, 1992, S, Juliet CUTHBERT, JAM, 10.83]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:34,547 - INFO - Sent: b'[W, 100M Women, Barcelona, 1992, B, Irina PRIVALOVA, EUN, 10.84]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:37,549 - INFO - Sent: b'[W, 100M Women, Los Angeles, 1984, G, Evelyn ASHFORD, USA, 10.97]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:40,554 - INFO - Sent: b'[W, 100M Women, Los Angeles, 1984, S, Alice BROWN, USA, 11.13]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:43,557 - INFO - Sent: b'[W, 100M Women, Los Angeles, 1984, B, Merlene OTTEY, JAM, 11.16]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:46,560 - INFO - Sent: b'[W, 100M Women, Montreal, 1976, G, Annegret RICHTER-IRRGANG, FRG, 11.08]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:49,562 - INFO - Sent: b'[W, 100M Women, Montreal, 1976, S, Renate STECHER, GDR, 11.13]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:52,566 - INFO - Sent: b'[W, 100M Women, Montreal, 1976, B, Inge HELTEN, FRG, 11.17]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:55,569 - INFO - Sent: b'[W, 100M Women, Mexico, 1968, G, Wyomia TYUS, USA, 11]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:09:58,572 - INFO - Sent: b'[W, 100M Women, Mexico, 1968, S, Barbara FERRELL, USA, 11.1]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:01,574 - INFO - Sent: b'[W, 100M Women, Mexico, 1968, B, Irena KIRSZENSTEIN, POL, 11.1]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:04,577 - INFO - Sent: b'[W, 100M Women, Rome, 1960, G, Wilma RUDOLPH, USA, 11]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:07,578 - INFO - Sent: b'[W, 100M Women, Rome, 1960, S, Dorothy HYMAN, GBR, 11.3]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:10,582 - INFO - Sent: b'[W, 100M Women, Rome, 1960, B, Giuseppina LEONE, ITA, 11.3]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:13,583 - INFO - Sent: b'[W, 100M Women, Helsinki, 1952, G, Marjorie JACKSON, AUS, 11.5]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:16,586 - INFO - Sent: b'[W, 100M Women, Helsinki, 1952, S, Daphne HASENJAGER, RSA, 11.8]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:19,589 - INFO - Sent: b'[W, 100M Women, Helsinki, 1952, B, Shirley STRICKLAND, AUS, 11.9]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:22,591 - INFO - Sent: b'[W, 100M Women, Berlin, 1936, G, Helen STEPHENS, USA, 11.5]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:25,593 - INFO - Sent: b'[W, 100M Women, Berlin, 1936, S, Stanislawa WALASIEWICZ, POL, 11.7]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:28,595 - INFO - Sent: b'[W, 100M Women, Berlin, 1936, B, K\xc3\x83\xc6\x92\xc3\x82\xc2\xa4the KRAUSS, GER, 11.9]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:31,599 - INFO - Sent: b'[W, 100M Women, Amsterdam, 1928, G, Elizabeth ROBINSON, USA, 12.2]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:34,601 - INFO - Sent: b'[W, 100M Women, Amsterdam, 1928, S, Fanny ROSENFELD, CAN, None]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:10:37,605 - INFO - Sent: b'[W, 100M Women, Amsterdam, 1928, B, Ethel SMITH, CAN, None]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:27:49,253 - INFO - Sent: b'[W, 100M Women, London, 2012, G, Shelly-Ann FRASER-PRYCE, JAM, 10.75]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:27:52,297 - INFO - Sent: b'[W, 100M Women, London, 2012, S, Carmelita JETER, USA, 10.78]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:27:55,298 - INFO - Sent: b'[W, 100M Women, London, 2012, B, Veronica CAMPBELL-BROWN, JAM, 10.81]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:27:58,301 - INFO - Sent: b'[W, 100M Women, Athens, 2004, G, Yuliya NESTSIARENKA, BLR, 10.93]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:01,303 - INFO - Sent: b'[W, 100M Women, Athens, 2004, S, Lauryn WILLIAMS, USA, 10.96]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:04,305 - INFO - Sent: b'[W, 100M Women, Athens, 2004, B, Veronica CAMPBELL-BROWN, JAM, 10.97]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:07,308 - INFO - Sent: b'[W, 100M Women, Atlanta, 1996, G, Gail DEVERS, USA, 10.94]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:10,310 - INFO - Sent: b'[W, 100M Women, Atlanta, 1996, S, Merlene OTTEY, JAM, 10.94]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:13,313 - INFO - Sent: b'[W, 100M Women, Atlanta, 1996, B, Gwen TORRENCE, USA, 10.96]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:16,315 - INFO - Sent: b'[W, 100M Women, Moscow, 1980, G, Lyudmila KONDRATYEVA, URS, 11.06]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:19,318 - INFO - Sent: b'[W, 100M Women, Moscow, 1980, S, Marlies OELSNER-G\xc3\x83\xc6\x92\xc3\x82\xe2\x80\x93HR, GDR, 11.07]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:22,320 - INFO - Sent: b'[W, 100M Women, Moscow, 1980, B, Ingrid AUERSWALD-LANGE, GDR, 11.14]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:25,322 - INFO - Sent: b'[W, 100M Women, Munich, 1972, G, Renate STECHER, GDR, 11.07]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:28,324 - INFO - Sent: b'[W, 100M Women, Munich, 1972, S, Raelene Ann BOYLE, AUS, 11.23]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:31,326 - INFO - Sent: b'[W, 100M Women, Munich, 1972, B, Silvia CHIVAS BARO, CUB, 11.24]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:34,329 - INFO - Sent: b'[W, 100M Women, Tokyo, 1964, G, Wyomia TYUS, USA, 11.4]' on port 9999. Hit CTRL-c to stop.
+2024-05-12 20:28:37,330 - INFO - Sent: b'[W, 100M Women, Tokyo, 1964, S, Edith MCGUIRE, USA, 11.6]' on port 9999. Hit CTRL-c to stop.
+Traceback (most recent call last):
+  File "c:\Users\15152\ds-venv\streaming-02-multiple-processes\process_streaming_SusieSmith.py", line 97, in <module>
+    stream_row(INPUT_FILE_NAME, ADDRESS_TUPLE)
+  File "c:\Users\15152\ds-venv\streaming-02-multiple-processes\process_streaming_SusieSmith.py", line 87, in stream_row
+    time.sleep(3) # wait 3 seconds between messages
+    ^^^^^^^^^^^^^
+KeyboardInterrupt
+^C
+C:\Users\15152\ds-venv\streaming-02-multiple-processes>

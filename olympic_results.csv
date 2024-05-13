@@ -1,0 +1,494 @@
+Gender,Event,Location,Year,Medal,Name,Nationality,Result
+W,10000M Women,Rio,2016,G,Almaz AYANA,ETH,29:17.4
+W,10000M Women,Rio,2016,S,Vivian Jepkemoi CHERUIYOT,KEN,29:32.5
+W,10000M Women,Rio,2016,B,Tirunesh DIBABA,ETH,29:42.6
+W,10000M Women,Beijing,2008,G,Tirunesh DIBABA,ETH,29:54.7
+W,10000M Women,Beijing,2008,S,Elvan ABEYLEGESSE,TUR,29:56.3
+W,10000M Women,Beijing,2008,B,Shalane FLANAGAN,USA,30:22.2
+W,10000M Women,Sydney,2000,G,Derartu TULU,ETH,30:17.5
+W,10000M Women,Sydney,2000,S,Gete WAMI,ETH,30:22.5
+W,10000M Women,Sydney,2000,B,Fernanda RIBEIRO,POR,30:22.9
+W,10000M Women,Barcelona,1992,G,Derartu TULU,ETH,31:06.0
+W,10000M Women,Barcelona,1992,S,Elana MEYER,RSA,31:11.7
+W,10000M Women,Barcelona,1992,B,Lynn JENNINGS,USA,31:19.9
+W,10000M Women,London,2012,G,Tirunesh DIBABA,ETH,30:20.8
+W,10000M Women,London,2012,S,Sally Jepkosgei KIPYEGO,KEN,30:26.4
+W,10000M Women,London,2012,B,Vivian Jepkemoi CHERUIYOT,KEN,30:30.4
+W,10000M Women,Athens,2004,G,Huina XING,CHN,30:24.4
+W,10000M Women,Athens,2004,S,Ejegayehu DIBABA,ETH,30:25.0
+W,10000M Women,Athens,2004,B,Derartu TULU,ETH,30:26.4
+W,10000M Women,Atlanta,1996,G,Fernanda RIBEIRO,POR,31:01.6
+W,10000M Women,Atlanta,1996,S,Junxia WANG,CHN,31:02.6
+W,10000M Women,Atlanta,1996,B,Gete WAMI,ETH,31:06.7
+W,100M Hurdles Women,Rio,2016,G,Brianna ROLLINS,USA,12.48
+W,100M Hurdles Women,Rio,2016,S,Nia ALI,USA,12.59
+W,100M Hurdles Women,Rio,2016,B,Kristi CASTLIN,USA,12.61
+W,100M Hurdles Women,Beijing,2008,G,Dawn HARPER,USA,12.54
+W,100M Hurdles Women,Beijing,2008,S,Sally PEARSON,AUS,12.64
+W,100M Hurdles Women,Beijing,2008,B,Priscilla LOPES-SCHLIEP,CAN,12.64
+W,100M Hurdles Women,Sydney,2000,G,Olga SHISHIGINA,KAZ,12.65
+W,100M Hurdles Women,Sydney,2000,S,Gloria ALOZIE,NGR,12.68
+W,100M Hurdles Women,Sydney,2000,B,Melissa MORRISON,USA,12.76
+W,100M Hurdles Women,Barcelona,1992,G,Voula PATOULIDOU,GRE,12.64
+W,100M Hurdles Women,Barcelona,1992,S,LaVonna MARTIN,USA,12.69
+W,100M Hurdles Women,Barcelona,1992,B,Yordanka DONKOVA,BUL,12.7
+W,100M Hurdles Women,Los Angeles,1984,G,Benita FITZGERALD-BROWN,USA,12.84
+W,100M Hurdles Women,Los Angeles,1984,S,Shirley STRONG,GBR,12.88
+W,100M Hurdles Women,Los Angeles,1984,B,MichÃ¨le CHARDONNET,FRA,13.06
+W,100M Hurdles Women,Los Angeles,1984,B,Kim TURNER,USA,13.06
+W,100M Hurdles Women,Montreal,1976,G,Johanna SCHALLER-KLIER,GDR,12.77
+W,100M Hurdles Women,Montreal,1976,S,Tatiana ANISIMOVA,URS,12.78
+W,100M Hurdles Women,Montreal,1976,B,Natalya LEBEDEVA,URS,12.8
+W,100M Hurdles Women,London,2012,G,Sally PEARSON,AUS,12.35
+W,100M Hurdles Women,London,2012,S,Dawn HARPER,USA,12.37
+W,100M Hurdles Women,London,2012,B,Kellie WELLS,USA,12.48
+W,100M Hurdles Women,Athens,2004,G,Joanna HAYES,USA,12.37
+W,100M Hurdles Women,Athens,2004,S,Olena KRASOVSKA,UKR,12.45
+W,100M Hurdles Women,Athens,2004,B,Melissa MORRISON,USA,12.56
+W,100M Hurdles Women,Atlanta,1996,G,Ludmila ENGQUIST,SWE,12.58
+W,100M Hurdles Women,Atlanta,1996,S,Brigita BUKOVEC,SLO,12.59
+W,100M Hurdles Women,Atlanta,1996,B,Patricia GIRARD,FRA,12.65
+W,100M Hurdles Women,Moscow,1980,G,Vera KOMISOVA,URS,12.56
+W,100M Hurdles Women,Moscow,1980,S,Johanna SCHALLER-KLIER,GDR,12.63
+W,100M Hurdles Women,Moscow,1980,B,Lucyna LANGER,POL,12.65
+W,100M Hurdles Women,Munich,1972,G,Annelie EHRHARDT,GDR,12.59
+W,100M Hurdles Women,Munich,1972,S,Valeria BUFANU,ROU,12.84
+W,100M Hurdles Women,Munich,1972,B,Karin RICHERT-BALZER,GDR,12.9
+W,100M Women,Rio,2016,G,Elaine THOMPSON,JAM,10.71
+W,100M Women,Rio,2016,S,Tori BOWIE,USA,10.83
+W,100M Women,Rio,2016,B,Shelly-Ann FRASER-PRYCE,JAM,10.86
+W,100M Women,Beijing,2008,G,Shelly-Ann FRASER-PRYCE,JAM,10.78
+W,100M Women,Beijing,2008,S,Sherone SIMPSON,JAM,10.98
+W,100M Women,Beijing,2008,S,Kerron STEWART,JAM,10.98
+W,100M Women,Sydney,2000,S,Ekaterini THANOU,GRE,11.12
+W,100M Women,Sydney,2000,S,Tanya LAWRENCE,JAM,11.18
+W,100M Women,Sydney,2000,B,Merlene OTTEY,JAM,11.19
+W,100M Women,Barcelona,1992,G,Gail DEVERS,USA,10.82
+W,100M Women,Barcelona,1992,S,Juliet CUTHBERT,JAM,10.83
+W,100M Women,Barcelona,1992,B,Irina PRIVALOVA,EUN,10.84
+W,100M Women,Los Angeles,1984,G,Evelyn ASHFORD,USA,10.97
+W,100M Women,Los Angeles,1984,S,Alice BROWN,USA,11.13
+W,100M Women,Los Angeles,1984,B,Merlene OTTEY,JAM,11.16
+W,100M Women,Montreal,1976,G,Annegret RICHTER-IRRGANG,FRG,11.08
+W,100M Women,Montreal,1976,S,Renate STECHER,GDR,11.13
+W,100M Women,Montreal,1976,B,Inge HELTEN,FRG,11.17
+W,100M Women,Mexico,1968,G,Wyomia TYUS,USA,11
+W,100M Women,Mexico,1968,S,Barbara FERRELL,USA,11.1
+W,100M Women,Mexico,1968,B,Irena KIRSZENSTEIN,POL,11.1
+W,100M Women,Rome,1960,G,Wilma RUDOLPH,USA,11
+W,100M Women,Rome,1960,S,Dorothy HYMAN,GBR,11.3
+W,100M Women,Rome,1960,B,Giuseppina LEONE,ITA,11.3
+W,100M Women,Helsinki,1952,G,Marjorie JACKSON,AUS,11.5
+W,100M Women,Helsinki,1952,S,Daphne HASENJAGER,RSA,11.8
+W,100M Women,Helsinki,1952,B,Shirley STRICKLAND,AUS,11.9
+W,100M Women,Berlin,1936,G,Helen STEPHENS,USA,11.5
+W,100M Women,Berlin,1936,S,Stanislawa WALASIEWICZ,POL,11.7
+W,100M Women,Berlin,1936,B,KÃ¤the KRAUSS,GER,11.9
+W,100M Women,Amsterdam,1928,G,Elizabeth ROBINSON,USA,12.2
+W,100M Women,Amsterdam,1928,S,Fanny ROSENFELD,CAN,None
+W,100M Women,Amsterdam,1928,B,Ethel SMITH,CAN,None
+W,100M Women,London,2012,G,Shelly-Ann FRASER-PRYCE,JAM,10.75
+W,100M Women,London,2012,S,Carmelita JETER,USA,10.78
+W,100M Women,London,2012,B,Veronica CAMPBELL-BROWN,JAM,10.81
+W,100M Women,Athens,2004,G,Yuliya NESTSIARENKA,BLR,10.93
+W,100M Women,Athens,2004,S,Lauryn WILLIAMS,USA,10.96
+W,100M Women,Athens,2004,B,Veronica CAMPBELL-BROWN,JAM,10.97
+W,100M Women,Atlanta,1996,G,Gail DEVERS,USA,10.94
+W,100M Women,Atlanta,1996,S,Merlene OTTEY,JAM,10.94
+W,100M Women,Atlanta,1996,B,Gwen TORRENCE,USA,10.96
+W,100M Women,Moscow,1980,G,Lyudmila KONDRATYEVA,URS,11.06
+W,100M Women,Moscow,1980,S,Marlies OELSNER-GÃHR,GDR,11.07
+W,100M Women,Moscow,1980,B,Ingrid AUERSWALD-LANGE,GDR,11.14
+W,100M Women,Munich,1972,G,Renate STECHER,GDR,11.07
+W,100M Women,Munich,1972,S,Raelene Ann BOYLE,AUS,11.23
+W,100M Women,Munich,1972,B,Silvia CHIVAS BARO,CUB,11.24
+W,100M Women,Tokyo,1964,G,Wyomia TYUS,USA,11.4
+W,100M Women,Tokyo,1964,S,Edith MCGUIRE,USA,11.6
+W,100M Women,Tokyo,1964,B,Ewa KLOBUKOWSKA,POL,11.6
+W,100M Women,Melbourne / Stockholm,1956,G,Betty CUTHBERT,AUS,11.5
+W,100M Women,Melbourne / Stockholm,1956,S,Christa STUBNICK,EUA,11.7
+W,100M Women,Melbourne / Stockholm,1956,B,Marlene MATHEWS-WILLARD,AUS,11.7
+W,100M Women,London,1948,G,Fanny BLANKERS-KOEN,NED,11.9
+W,100M Women,London,1948,S,Dorothy HALL,GBR,12.2
+W,100M Women,London,1948,B,Shirley STRICKLAND,AUS,12.2
+W,100M Women,Los Angeles,1932,G,Stanislawa WALASIEWICZ,POL,11.9
+W,100M Women,Los Angeles,1932,S,Hilda STRIKE,CAN,11.9
+W,100M Women,Los Angeles,1932,B,Wilhelmina VON BREMEN,USA,12
+W,1500M Women,Rio,2016,G,Faith Chepngetich KIPYEGON,KEN,04:08.9
+W,1500M Women,Rio,2016,S,Genzebe DIBABA,ETH,04:10.3
+W,1500M Women,Rio,2016,B,Jennifer SIMPSON,USA,04:10.5
+W,1500M Women,Beijing,2008,G,Nancy Jebet LAGAT,KEN,04:00.2
+W,1500M Women,Beijing,2008,S,Iryna LISHCHYNSKA,UKR,04:01.6
+W,1500M Women,Beijing,2008,B,Nataliya TOBIAS,UKR,04:01.8
+W,1500M Women,Sydney,2000,G,Nouria MERAH-BENIDA,ALG,04:05.1
+W,1500M Women,Sydney,2000,S,Violeta SZEKELY,ROU,04:05.2
+W,1500M Women,Sydney,2000,B,Gabriela SZABO,ROU,04:05.3
+W,1500M Women,Barcelona,1992,G,Hassiba BOULMERKA,ALG,03:55.3
+W,1500M Women,Barcelona,1992,S,Lyudmila ROGACHOVA,EUN,03:56.9
+W,1500M Women,Barcelona,1992,B,Yunxia QU,CHN,03:57.1
+W,1500M Women,Los Angeles,1984,G,Gabriella DORIO,ITA,04:03.2
+W,1500M Women,Los Angeles,1984,S,Doina MELINTE,ROU,04:03.8
+W,1500M Women,Los Angeles,1984,B,Maricica PUICA,ROU,04:04.1
+W,1500M Women,Montreal,1976,G,Tatiana KAZANKINA,URS,04:05.5
+W,1500M Women,Montreal,1976,S,Gunhild HOFFMEISTER,GDR,04:06.0
+W,1500M Women,Montreal,1976,B,Ulrike KLAPEZYNSKI-BRUNS,GDR,04:06.1
+W,1500M Women,London,2012,S,Gamze BULUT,TUR,04:10.4
+W,1500M Women,London,2012,B,Maryam Yusuf JAMAL,BRN,04:10.7
+W,1500M Women,Athens,2004,G,Kelly HOLMES,GBR,03:57.9
+W,1500M Women,Athens,2004,S,Tatyana TOMASHOVA,RUS,03:58.1
+W,1500M Women,Athens,2004,B,Maria CIONCAN,ROU,03:58.4
+W,1500M Women,Atlanta,1996,G,Svetlana MASTERKOVA,RUS,04:00.8
+W,1500M Women,Atlanta,1996,S,Gabriela SZABO,ROU,04:01.5
+W,1500M Women,Atlanta,1996,B,Theresia KIESL,AUT,04:03.0
+W,1500M Women,Moscow,1980,G,Tatiana KAZANKINA,URS,03:56.6
+W,1500M Women,Moscow,1980,S,Christiane STOLL-WARTENBERG,GDR,03:57.8
+W,1500M Women,Moscow,1980,B,Nadezhda OLIZARENKO,URS,03:59.6
+W,1500M Women,Munich,1972,G,Lyudmila BRAGINA,URS,04:01.4
+W,1500M Women,Munich,1972,S,Gunhild HOFFMEISTER,GDR,04:02.8
+W,1500M Women,Munich,1972,B,Paola PIGNI-CACCHI,ITA,04:02.8
+W,200M Women,Rio,2016,G,Elaine THOMPSON,JAM,21.78
+W,200M Women,Rio,2016,S,Dafne SCHIPPERS,NED,21.88
+W,200M Women,Rio,2016,B,Tori BOWIE,USA,22.15
+W,200M Women,Beijing,2008,G,Veronica CAMPBELL-BROWN,JAM,21.74
+W,200M Women,Beijing,2008,S,Allyson FELIX,USA,21.93
+W,200M Women,Beijing,2008,B,Kerron STEWART,JAM,22
+W,200M Women,Sydney,2000,G,Pauline DAVIS,BAH,22.27
+W,200M Women,Sydney,2000,S,Susanthika JAYASINGHE,SRI,22.28
+W,200M Women,Sydney,2000,B,Beverly MCDONALD,JAM,22.35
+W,200M Women,Barcelona,1992,G,Gwen TORRENCE,USA,21.81
+W,200M Women,Barcelona,1992,S,Juliet CUTHBERT,JAM,22.02
+W,200M Women,Barcelona,1992,B,Merlene OTTEY,JAM,22.09
+W,200M Women,Los Angeles,1984,G,Valerie BRISCO,USA,21.81
+W,200M Women,Los Angeles,1984,S,Florence GRIFFITH JOYNER,USA,22.04
+W,200M Women,Los Angeles,1984,B,Merlene OTTEY,JAM,22.09
+W,200M Women,Montreal,1976,G,BÃ¤rbel ECKERT-WÃCKEL,GDR,22.37
+W,200M Women,Montreal,1976,S,Annegret RICHTER-IRRGANG,FRG,22.39
+W,200M Women,Montreal,1976,B,Renate STECHER,GDR,22.47
+W,200M Women,Mexico,1968,G,Irena KIRSZENSTEIN,POL,22.5
+W,200M Women,Mexico,1968,S,Raelene Ann BOYLE,AUS,22.7
+W,200M Women,Mexico,1968,B,Jennifer LAMY,AUS,22.8
+W,200M Women,Rome,1960,G,Wilma RUDOLPH,USA,24
+W,200M Women,Rome,1960,S,Jutta HEINE,EUA,24.4
+W,200M Women,Rome,1960,B,Dorothy HYMAN,GBR,24.7
+W,200M Women,Helsinki,1952,G,Marjorie JACKSON,AUS,23.7
+W,200M Women,Helsinki,1952,S,Bertha BROUWER,NED,24.2
+W,200M Women,Helsinki,1952,B,Nadezhda KHNYKINA,URS,24.2
+W,200M Women,London,2012,G,Allyson FELIX,USA,21.88
+W,200M Women,London,2012,S,Shelly-Ann FRASER-PRYCE,JAM,22.09
+W,200M Women,London,2012,B,Carmelita JETER,USA,22.14
+W,200M Women,Athens,2004,G,Veronica CAMPBELL-BROWN,JAM,22.05
+W,200M Women,Athens,2004,S,Allyson FELIX,USA,22.18
+W,200M Women,Athens,2004,B,Debbie FERGUSON-MCKENZIE,BAH,22.3
+W,200M Women,Atlanta,1996,G,Marie-JosÃ© PÃREC,FRA,22.12
+W,200M Women,Atlanta,1996,S,Merlene OTTEY,JAM,22.24
+W,200M Women,Atlanta,1996,B,Mary ONYALI,NGR,22.38
+W,200M Women,Moscow,1980,G,BÃ¤rbel ECKERT-WÃCKEL,GDR,22.03
+W,200M Women,Moscow,1980,S,Natalia BOCHINA,URS,22.19
+W,200M Women,Moscow,1980,B,Merlene OTTEY,JAM,22.2
+W,200M Women,Munich,1972,G,Renate STECHER,GDR,22.4
+W,200M Women,Munich,1972,S,Raelene Ann BOYLE,AUS,22.45
+W,200M Women,Munich,1972,B,Irena KIRSZENSTEIN,POL,22.74
+W,200M Women,Tokyo,1964,G,Edith MCGUIRE,USA,23
+W,200M Women,Tokyo,1964,S,Irena KIRSZENSTEIN,POL,23.1
+W,200M Women,Tokyo,1964,B,Marilyn BLACK,AUS,23.1
+W,200M Women,Melbourne / Stockholm,1956,G,Betty CUTHBERT,AUS,23.4
+W,200M Women,Melbourne / Stockholm,1956,S,Christa STUBNICK,EUA,23.7
+W,200M Women,Melbourne / Stockholm,1956,B,Marlene MATHEWS-WILLARD,AUS,23.8
+W,200M Women,London,1948,G,Fanny BLANKERS-KOEN,NED,24.4
+W,200M Women,London,1948,S,Audrey WILLIAMSON,GBR,25.1
+W,200M Women,London,1948,B,Audrey PATTERSON,USA,25.2
+W,20Km Race Walk Women,Rio,2016,G,Hong LIU,CHN,1:28:35
+W,20Km Race Walk Women,Rio,2016,S,Maria Guadalupe GONZALEZ,MEX,1:28:37
+W,20Km Race Walk Women,Rio,2016,B,Xiuzhi LU,CHN,1:28:42
+W,20Km Race Walk Women,Beijing,2008,G,Olga KANISKINA,RUS,1h26:31
+W,20Km Race Walk Women,Beijing,2008,S,Kjersti PLAETZER,NOR,1h27:07
+W,20Km Race Walk Women,Beijing,2008,B,Elisa RIGAUDO,ITA,1h27:12
+W,20Km Race Walk Women,Sydney,2000,G,Liping WANG,CHN,01h29:05
+W,20Km Race Walk Women,Sydney,2000,G,Liping WANG,CHN,01h29:05
+W,20Km Race Walk Women,Sydney,2000,S,Kjersti PLAETZER,NOR,01h29:33
+W,20Km Race Walk Women,Sydney,2000,B,Maria VASCO,ESP,01h30:23
+W,20Km Race Walk Women,London,2012,G,Elena LASHMANOVA,RUS,1:25:02
+W,20Km Race Walk Women,London,2012,B,Shenjie QIEYANG,CHN,1:25:16
+W,20Km Race Walk Women,Athens,2004,G,Athanasia TSOUMELEKA,GRE,1h29:12
+W,20Km Race Walk Women,Athens,2004,S,Olimpiada IVANOVA,RUS,1h29:16
+W,20Km Race Walk Women,Athens,2004,B,Jane SAVILLE,AUS,1h29:25
+W,3000M Steeplechase Women,Rio,2016,G,Ruth JEBET,BRN,08:59.7
+W,3000M Steeplechase Women,Rio,2016,S,Hyvin Kiyeng JEPKEMOI,KEN,09:07.1
+W,3000M Steeplechase Women,Rio,2016,B,Emma COBURN,USA,09:07.6
+W,3000M Steeplechase Women,Beijing,2008,G,Gulnara SAMITOVA,RUS,08:58.8
+W,3000M Steeplechase Women,Beijing,2008,S,Eunice JEPKORIR,KEN,09:07.4
+W,3000M Steeplechase Women,London,2012,G,Habiba GHRIBI,TUN,09:08.4
+W,3000M Steeplechase Women,London,2012,S,Sofia ASSEFA,ETH,09:09.8
+W,3000M Steeplechase Women,London,2012,B,Milcah Chemos CHEYWA,KEN,09:09.9
+W,400M Hurdles Women,Rio,2016,G,Dalilah MUHAMMAD,USA,53.13
+W,400M Hurdles Women,Rio,2016,S,Sara Slott PETERSEN,DEN,53.55
+W,400M Hurdles Women,Rio,2016,B,Ashley SPENCER,USA,53.72
+W,400M Hurdles Women,Beijing,2008,G,Melaine WALKER,JAM,52.64
+W,400M Hurdles Women,Beijing,2008,S,Sheena TOSTA,USA,53.7
+W,400M Hurdles Women,Beijing,2008,B,Natasha DANVERS,GBR,53.84
+W,400M Hurdles Women,Sydney,2000,G,Irina PRIVALOVA,RUS,53.02
+W,400M Hurdles Women,Sydney,2000,S,Deon Marie HEMMINGS,JAM,53.45
+W,400M Hurdles Women,Sydney,2000,B,Nezha BIDOUANE,MAR,53.57
+W,400M Hurdles Women,Barcelona,1992,G,Sally GUNNELL,GBR,53.23
+W,400M Hurdles Women,Barcelona,1992,S,Sandra FARMER-PATRICK,USA,53.69
+W,400M Hurdles Women,Barcelona,1992,B,Janeene VICKERS,USA,54.31
+W,400M Hurdles Women,Los Angeles,1984,G,Nawal EL MOUTAWAKEL,MAR,54.61
+W,400M Hurdles Women,Los Angeles,1984,S,Judi BROWN,USA,55.2
+W,400M Hurdles Women,Los Angeles,1984,B,Cristina COJOCARU,ROU,55.41
+W,400M Hurdles Women,London,2012,G,Natalya ANTYUKH,RUS,52.7
+W,400M Hurdles Women,London,2012,S,Lashinda DEMUS,USA,52.77
+W,400M Hurdles Women,London,2012,B,Zuzana HEJNOVA,CZE,53.38
+W,400M Hurdles Women,Athens,2004,G,Fani KHALKIA,GRE,52.82
+W,400M Hurdles Women,Athens,2004,S,Ionela TIRLEA,ROU,53.38
+W,400M Hurdles Women,Athens,2004,B,Tetyana TERESHCHUK,UKR,53.44
+W,400M Hurdles Women,Atlanta,1996,G,Deon Marie HEMMINGS,JAM,52.82
+W,400M Hurdles Women,Atlanta,1996,S,Kim BATTEN,USA,53.08
+W,400M Hurdles Women,Atlanta,1996,B,Tonja BUFORD-BAILEY,USA,53.22
+W,400M Women,Rio,2016,G,Shaunae MILLER,BAH,49.44
+W,400M Women,Rio,2016,S,Allyson FELIX,USA,49.51
+W,400M Women,Rio,2016,B,Shericka JACKSON,JAM,49.85
+W,400M Women,Beijing,2008,G,Christine OHURUOGU,GBR,49.62
+W,400M Women,Beijing,2008,S,Shericka WILLIAMS,JAM,49.69
+W,400M Women,Beijing,2008,B,Sanya RICHARDS-ROSS,USA,49.93
+W,400M Women,Sydney,2000,G,Cathy FREEMAN,AUS,49.11
+W,400M Women,Sydney,2000,S,Lorraine FENTON,JAM,49.58
+W,400M Women,Sydney,2000,B,Katharine MERRY,GBR,49.72
+W,400M Women,Barcelona,1992,G,Marie-JosÃ© PÃREC,FRA,48.83
+W,400M Women,Barcelona,1992,S,Olga BRYZGINA,EUN,49.05
+W,400M Women,Barcelona,1992,B,Ximena RESTREPO,COL,49.64
+W,400M Women,Los Angeles,1984,G,Valerie BRISCO,USA,48.83
+W,400M Women,Los Angeles,1984,S,Chandra CHEESEBOROUGH,USA,49.05
+W,400M Women,Los Angeles,1984,B,Kathryn SMALLWOOD-COOK,GBR,49.42
+W,400M Women,Montreal,1976,G,Irena KIRSZENSTEIN,POL,49.29
+W,400M Women,Montreal,1976,S,Christina BREHMER-LATHAN,GDR,50.51
+W,400M Women,Montreal,1976,B,Ellen STROPAHL-STREIDT,GDR,50.55
+W,400M Women,Mexico,1968,G,Colette BESSON,FRA,52
+W,400M Women,Mexico,1968,S,Lillian BOARD,GBR,52.1
+W,400M Women,Mexico,1968,B,Natalya CHISTYAKOVA,URS,52.2
+W,400M Women,London,2012,G,Sanya RICHARDS-ROSS,USA,49.55
+W,400M Women,London,2012,S,Christine OHURUOGU,GBR,49.7
+W,400M Women,London,2012,B,DeeDee TROTTER,USA,49.72
+W,400M Women,Athens,2004,G,Tonique WILLIAMS-DARLING,BAH,49.41
+W,400M Women,Athens,2004,S,Ana GUEVARA,MEX,49.56
+W,400M Women,Athens,2004,B,Natalya ANTYUKH,RUS,49.89
+W,400M Women,Atlanta,1996,G,Marie-JosÃ© PÃREC,FRA,48.25
+W,400M Women,Atlanta,1996,S,Cathy FREEMAN,AUS,48.63
+W,400M Women,Atlanta,1996,B,Falilat OGUNKOYA,NGR,49.1
+W,400M Women,Moscow,1980,G,Marita KOCH,GDR,48.88
+W,400M Women,Moscow,1980,S,Jarmila KRATOHVILOVA,TCH,49.46
+W,400M Women,Moscow,1980,B,Christina BREHMER-LATHAN,GDR,49.66
+W,400M Women,Munich,1972,G,Monika ZEHRT,GDR,51.08
+W,400M Women,Munich,1972,S,Rita JAHN,FRG,51.21
+W,400M Women,Munich,1972,B,Kathleen HAMMOND,USA,51.64
+W,400M Women,Tokyo,1964,G,Betty CUTHBERT,AUS,52
+W,400M Women,Tokyo,1964,S,Ann PACKER,GBR,52.2
+W,400M Women,Tokyo,1964,B,Judith Florence AMOORE-POLLOCK,AUS,53.4
+W,4X100M Relay Women,Rio,2016,G,null,USA,41.01
+W,4X100M Relay Women,Rio,2016,S,null,JAM,41.36
+W,4X100M Relay Women,Rio,2016,B,null,GBR,41.77
+W,4X100M Relay Women,Beijing,2008,G,null,BEL,42.54
+W,4X100M Relay Women,Beijing,2008,S,null,NGR,43.04
+W,4X100M Relay Women,Beijing,2008,B,null,BRA,43.14
+W,4X100M Relay Women,Sydney,2000,G,null,BAH,41.95
+W,4X100M Relay Women,Sydney,2000,S,null,JAM,42.13
+W,4X100M Relay Women,Sydney,2000,B,null,USA,42.2
+W,4X100M Relay Women,Barcelona,1992,G,null,USA,42.11
+W,4X100M Relay Women,Barcelona,1992,S,null,EUN,42.16
+W,4X100M Relay Women,Barcelona,1992,B,null,NGR,42.81
+W,4X100M Relay Women,Los Angeles,1984,G,null,USA,41.65
+W,4X100M Relay Women,Los Angeles,1984,S,null,CAN,42.77
+W,4X100M Relay Women,Los Angeles,1984,B,null,GBR,43.11
+W,4X100M Relay Women,Montreal,1976,G,null,GDR,42.55
+W,4X100M Relay Women,Montreal,1976,S,null,FRG,42.59
+W,4X100M Relay Women,Montreal,1976,B,null,URS,43.09
+W,4X100M Relay Women,Mexico,1968,G,null,USA,42.8
+W,4X100M Relay Women,Mexico,1968,S,null,CUB,43.3
+W,4X100M Relay Women,Mexico,1968,B,null,URS,43.4
+W,4X100M Relay Women,Rome,1960,G,null,USA,44.5
+W,4X100M Relay Women,Rome,1960,S,null,EUA,44.8
+W,4X100M Relay Women,Rome,1960,B,null,POL,45
+W,4X100M Relay Women,Helsinki,1952,G,null,USA,45.9
+W,4X100M Relay Women,Helsinki,1952,S,null,GER,45.9
+W,4X100M Relay Women,Helsinki,1952,B,null,GBR,46.2
+W,4X100M Relay Women,Berlin,1936,G,null,USA,46.9
+W,4X100M Relay Women,Berlin,1936,S,null,GBR,47.6
+W,4X100M Relay Women,Berlin,1936,B,null,CAN,47.8
+W,4X100M Relay Women,Amsterdam,1928,G,null,CAN,48.4
+W,4X100M Relay Women,Amsterdam,1928,S,null,USA,None
+W,4X100M Relay Women,Amsterdam,1928,B,null,GER,None
+W,4X100M Relay Women,London,2012,G,null,USA,40.82
+W,4X100M Relay Women,London,2012,S,null,JAM,41.41
+W,4X100M Relay Women,London,2012,B,null,UKR,42.04
+W,4X100M Relay Women,Athens,2004,G,null,JAM,41.73
+W,4X100M Relay Women,Athens,2004,S,null,RUS,42.27
+W,4X100M Relay Women,Athens,2004,B,null,FRA,42.54
+W,4X100M Relay Women,Atlanta,1996,G,null,USA,41.95
+W,4X100M Relay Women,Atlanta,1996,S,null,BAH,42.14
+W,4X100M Relay Women,Atlanta,1996,B,null,JAM,42.24
+W,4X100M Relay Women,Moscow,1980,G,null,GDR,41.6
+W,4X100M Relay Women,Moscow,1980,S,null,URS,42.1
+W,4X100M Relay Women,Moscow,1980,B,null,GBR,42.43
+W,4X100M Relay Women,Munich,1972,G,null,FRG,42.81
+W,4X100M Relay Women,Munich,1972,S,null,GDR,42.95
+W,4X100M Relay Women,Munich,1972,B,null,CUB,43.36
+W,4X100M Relay Women,Tokyo,1964,G,null,POL,43.6
+W,4X100M Relay Women,Tokyo,1964,S,null,USA,43.9
+W,4X100M Relay Women,Tokyo,1964,B,null,GBR,44
+W,4X100M Relay Women,Melbourne / Stockholm,1956,G,null,AUS,44.5
+W,4X100M Relay Women,Melbourne / Stockholm,1956,S,null,GBR,44.7
+W,4X100M Relay Women,Melbourne / Stockholm,1956,B,null,USA,44.9
+W,4X100M Relay Women,London,1948,G,null,NED,47.5
+W,4X100M Relay Women,London,1948,S,null,AUS,47.6
+W,4X100M Relay Women,London,1948,B,null,CAN,47.8
+W,4X100M Relay Women,Los Angeles,1932,G,null,USA,47
+W,4X100M Relay Women,Los Angeles,1932,S,null,CAN,47
+W,4X100M Relay Women,Los Angeles,1932,B,null,GBR,47.6
+W,4X400M Relay Women,Rio,2016,G,null,USA,None
+W,4X400M Relay Women,Rio,2016,S,null,JAM,None
+W,4X400M Relay Women,Rio,2016,B,null,GBR,None
+W,4X400M Relay Women,Beijing,2008,G,null,USA,03:18.5
+W,4X400M Relay Women,Beijing,2008,B,null,JAM,03:20.4
+W,4X400M Relay Women,Sydney,2000,G,null,USA,03:22.6
+W,4X400M Relay Women,Sydney,2000,S,null,JAM,03:23.2
+W,4X400M Relay Women,Sydney,2000,B,null,RUS,03:23.5
+W,4X400M Relay Women,Barcelona,1992,G,null,EUN,03:20.2
+W,4X400M Relay Women,Barcelona,1992,S,null,USA,03:20.9
+W,4X400M Relay Women,Barcelona,1992,B,null,GBR,03:24.2
+W,4X400M Relay Women,Los Angeles,1984,G,null,USA,03:18.3
+W,4X400M Relay Women,Los Angeles,1984,S,null,CAN,03:21.2
+W,4X400M Relay Women,Los Angeles,1984,B,null,FRG,03:23.0
+W,4X400M Relay Women,Montreal,1976,G,null,GDR,03:19.2
+W,4X400M Relay Women,Montreal,1976,S,null,USA,03:22.8
+W,4X400M Relay Women,Montreal,1976,B,null,URS,03:24.2
+W,4X400M Relay Women,London,2012,G,null,USA,03:16.9
+W,4X400M Relay Women,London,2012,S,null,JAM,03:21.0
+W,4X400M Relay Women,London,2012,B,null,UKR,03:23.6
+W,4X400M Relay Women,Athens,2004,G,null,USA,03:19.0
+W,4X400M Relay Women,Athens,2004,S,null,RUS,03:20.2
+W,4X400M Relay Women,Athens,2004,B,null,JAM,03:22.0
+W,4X400M Relay Women,Atlanta,1996,G,null,USA,03:20.9
+W,4X400M Relay Women,Atlanta,1996,S,null,NGR,03:21.0
+W,4X400M Relay Women,Atlanta,1996,B,null,GER,03:21.1
+W,4X400M Relay Women,Moscow,1980,G,null,URS,03:20.2
+W,4X400M Relay Women,Moscow,1980,S,null,GDR,03:20.4
+W,4X400M Relay Women,Moscow,1980,B,null,GBR,03:27.5
+W,4X400M Relay Women,Munich,1972,G,null,GDR,03:23.0
+W,4X400M Relay Women,Munich,1972,S,null,USA,03:25.2
+W,4X400M Relay Women,Munich,1972,B,null,FRG,03:26.5
+W,5000M Women,Rio,2016,G,Vivian Jepkemoi CHERUIYOT,KEN,14:26.2
+W,5000M Women,Rio,2016,S,Hellen Onsando OBIRI,KEN,14:29.8
+W,5000M Women,Rio,2016,B,Almaz AYANA,ETH,14:33.6
+W,5000M Women,Beijing,2008,G,Tirunesh DIBABA,ETH,15:41.4
+W,5000M Women,Beijing,2008,S,Elvan ABEYLEGESSE,TUR,15:42.7
+W,5000M Women,Beijing,2008,B,Meseret DEFAR,ETH,15:44.1
+W,5000M Women,Sydney,2000,G,Gabriela SZABO,ROU,14:40.8
+W,5000M Women,Sydney,2000,S,Sonia O'SULLIVAN,IRL,14:41.0
+W,5000M Women,Sydney,2000,B,Gete WAMI,ETH,14:42.2
+W,5000M Women,London,2012,G,Meseret DEFAR,ETH,15:04.3
+W,5000M Women,London,2012,S,Vivian Jepkemoi CHERUIYOT,KEN,15:04.7
+W,5000M Women,London,2012,B,Tirunesh DIBABA,ETH,15:05.2
+W,5000M Women,Athens,2004,G,Meseret DEFAR,ETH,14:45.6
+W,5000M Women,Athens,2004,S,Isabella OCHICHI,KEN,14:48.2
+W,5000M Women,Athens,2004,B,Tirunesh DIBABA,ETH,14:51.8
+W,5000M Women,Atlanta,1996,G,Junxia WANG,CHN,14:59.9
+W,5000M Women,Atlanta,1996,S,Pauline KONGA,KEN,15:03.5
+W,5000M Women,Atlanta,1996,B,Roberta BRUNET,ITA,15:07.5
+W,800M Women,Rio,2016,G,Caster SEMENYA,RSA,01:55.3
+W,800M Women,Rio,2016,S,Francine NIYONSABA,BDI,01:56.5
+W,800M Women,Rio,2016,B,Margaret Nyairera WAMBUI,KEN,01:56.9
+W,800M Women,Beijing,2008,G,Pamela JELIMO,KEN,01:54.9
+W,800M Women,Beijing,2008,S,Janeth Jepkosgei BUSIENEI,KEN,01:56.1
+W,800M Women,Beijing,2008,B,Hasna BENHASSI,MAR,01:56.7
+W,800M Women,Sydney,2000,G,Maria MUTOLA,MOZ,01:56.2
+W,800M Women,Sydney,2000,S,Stephanie GRAF,AUT,01:56.6
+W,800M Women,Sydney,2000,B,Kelly HOLMES,GBR,01:56.8
+W,800M Women,Barcelona,1992,G,Ellen VAN LANGEN,NED,01:55.5
+W,800M Women,Barcelona,1992,S,Liliya NURUTDINOVA,EUN,01:56.0
+W,800M Women,Barcelona,1992,B,Ana Fidelia QUIROT,CUB,01:56.8
+W,800M Women,Los Angeles,1984,G,Doina MELINTE,ROU,01:57.6
+W,800M Women,Los Angeles,1984,S,Kim GALLAGHER,USA,01:58.6
+W,800M Women,Los Angeles,1984,B,Fita LOVIN,ROU,01:58.8
+W,800M Women,Montreal,1976,G,Tatiana KAZANKINA,URS,01:54.9
+W,800M Women,Montreal,1976,S,Nikolina CHTEREVA,BUL,01:55.4
+W,800M Women,Montreal,1976,B,Elfi ZINN,GDR,01:55.6
+W,800M Women,Mexico,1968,G,Madeline MANNING-JACKSON,USA,02:00.9
+W,800M Women,Mexico,1968,S,Ileana SILAI,ROU,02:02.5
+W,800M Women,Mexico,1968,B,Maria GOMMERS,NED,02:02.6
+W,800M Women,Rome,1960,G,Lyudmila SHEVTSOVA,URS,02:04.3
+W,800M Women,Rome,1960,S,Brenda JONES,AUS,02:04.4
+W,800M Women,Rome,1960,B,Ursula DONATH,EUA,02:05.6
+W,800M Women,London,2012,G,Mariya SAVINOVA,RUS,01:56.2
+W,800M Women,London,2012,S,Caster SEMENYA,RSA,01:57.2
+W,800M Women,London,2012,B,Ekaterina POISTOGOVA,RUS,01:57.5
+W,800M Women,Athens,2004,G,Kelly HOLMES,GBR,01:56.4
+W,800M Women,Athens,2004,S,Hasna BENHASSI,MAR,01:56.4
+W,800M Women,Athens,2004,B,Jolanda CEPLAK,SLO,01:56.4
+W,800M Women,Atlanta,1996,G,Svetlana MASTERKOVA,RUS,01:57.7
+W,800M Women,Atlanta,1996,S,Ana Fidelia QUIROT,CUB,01:58.1
+W,800M Women,Atlanta,1996,B,Maria MUTOLA,MOZ,01:58.7
+W,800M Women,Moscow,1980,G,Nadezhda OLIZARENKO,URS,01:53.5
+W,800M Women,Moscow,1980,S,Olga MINEEVA,URS,01:54.9
+W,800M Women,Moscow,1980,B,Tatiana PROVIDOKHINA,URS,01:55.5
+W,800M Women,Munich,1972,G,Hildegard FALCK,FRG,01:58.6
+W,800M Women,Munich,1972,S,Niole SABAITE,URS,01:58.6
+W,800M Women,Munich,1972,B,Gunhild HOFFMEISTER,GDR,01:59.2
+W,800M Women,Tokyo,1964,G,Ann PACKER,GBR,02:01.1
+W,800M Women,Tokyo,1964,S,Maryvonne DUPUREUR,FRA,02:01.9
+W,800M Women,Tokyo,1964,B,Ann Marise CHAMBERLAIN,NZL,02:02.8
+W,800M Women,Amsterdam,1928,G,"Karoline ""Lina"" RADKE",GER,02:16.8
+W,800M Women,Amsterdam,1928,S,Kinue HITOMI,JPN,None
+W,800M Women,Amsterdam,1928,B,Inga GENTZEL,SWE,None
+W,Heptathlon Women,Rio,2016,G,Nafissatou THIAM,BEL,6810
+W,Heptathlon Women,Rio,2016,S,Jessica ENNIS HILL,GBR,6775
+W,Heptathlon Women,Rio,2016,B,Brianne THEISEN EATON,CAN,6653
+W,Heptathlon Women,Beijing,2008,G,Natallia DOBRYNSKA,UKR,6733
+W,Heptathlon Women,Beijing,2008,S,Hyleas FOUNTAIN,USA,6619
+W,Heptathlon Women,Beijing,2008,B,Tatyana CHERNOVA,RUS,6591
+W,Heptathlon Women,Sydney,2000,G,Denise LEWIS,GBR,6584
+W,Heptathlon Women,Sydney,2000,S,Yelena PROKHOROVA,RUS,6531
+W,Heptathlon Women,Sydney,2000,B,Natalya SAZANOVICH,BLR,6527
+W,Heptathlon Women,Barcelona,1992,G,Jackie JOYNER,USA,7044 P.
+W,Heptathlon Women,Barcelona,1992,S,Irina BELOVA,EUN,6845
+W,Heptathlon Women,Barcelona,1992,B,Sabine BRAUN,GER,6649
+W,Heptathlon Women,Los Angeles,1984,G,Glynis NUNN,AUS,6390
+W,Heptathlon Women,Los Angeles,1984,S,Jackie JOYNER,USA,6385
+W,Heptathlon Women,Los Angeles,1984,B,Sabine EVERTS,FRG,6363
+W,Heptathlon Women,London,2012,G,Jessica ENNIS HILL,GBR,6955
+W,Heptathlon Women,London,2012,S,Lilli SCHWARZKOPF,GER,6649
+W,Heptathlon Women,London,2012,B,Tatyana CHERNOVA,RUS,6628
+W,Heptathlon Women,Athens,2004,G,Carolina KLUFT,SWE,6952
+W,Heptathlon Women,Athens,2004,S,Austra SKUJYTE,LTU,6435
+W,Heptathlon Women,Athens,2004,B,Kelly SOTHERTON,GBR,6424
+W,Heptathlon Women,Atlanta,1996,G,Ghada SHOUAA,SYR,6780
+W,Heptathlon Women,Atlanta,1996,S,Natalya SAZANOVICH,BLR,6563
+W,Heptathlon Women,Atlanta,1996,B,Denise LEWIS,GBR,6489
+W,Heptathlon Women,Seoul,1988,G,Jackie JOYNER,USA,7291 P.
+W,Heptathlon Women,Seoul,1988,S,Sabine JOHN,GDR,6897
+W,Heptathlon Women,Seoul,1988,B,Anke BEHMER,GDR,6858
+W,Marathon Women,Rio,2016,G,Jemima Jelagat SUMGONG,KEN,2:24:04
+W,Marathon Women,Rio,2016,S,Eunice Jepkirui KIRWA,BRN,2:24:13
+W,Marathon Women,Rio,2016,B,Mare DIBABA,ETH,2:24:30
+W,Marathon Women,Beijing,2008,G,Constantina TOMESCU,ROU,2h26:44
+W,Marathon Women,Beijing,2008,S,Catherine NDEREBA,KEN,2h27:06
+W,Marathon Women,Beijing,2008,B,Chunxiu ZHOU,CHN,2h27:07
+W,Marathon Women,Sydney,2000,G,Naoko TAKAHASHI,JPN,02h23:14
+W,Marathon Women,Sydney,2000,S,Lidia SIMON,ROU,02h23:22
+W,Marathon Women,Sydney,2000,B,Joyce CHEPCHUMBA,KEN,02h24:45
+W,Marathon Women,Barcelona,1992,G,Valentina YEGOROVA,EUN,2:32:41
+W,Marathon Women,Barcelona,1992,S,Yuko ARIMORI,JPN,2:32:49
+W,Marathon Women,Barcelona,1992,B,Lorraine MOLLER,NZL,2:33:59
+W,Marathon Women,Los Angeles,1984,G,Joan BENOIT,USA,2:24:52
+W,Marathon Women,Los Angeles,1984,S,Grete ANDERSEN,NOR,2:26:18
+W,Marathon Women,Los Angeles,1984,B,Rosa MOTA,POR,2:26:57
+W,Marathon Women,London,2012,G,Tiki GELANA,ETH,2:23:07
+W,Marathon Women,London,2012,S,Priscah JEPTOO,KEN,2:23:12
+W,Marathon Women,London,2012,B,Tatyana PETROVA ARKHIPOVA,RUS,2:23:29
+W,Marathon Women,Athens,2004,G,Mizuki NOGUCHI,JPN,2h26:20
+W,Marathon Women,Athens,2004,S,Catherine NDEREBA,KEN,2h26:32
+W,Marathon Women,Athens,2004,B,Deena KASTOR,USA,2h27:20
+W,Marathon Women,Atlanta,1996,G,Fatuma ROBA,ETH,2:26:05
+W,Marathon Women,Atlanta,1996,S,Valentina YEGOROVA,RUS,2:28:05
+W,Marathon Women,Atlanta,1996,B,Yuko ARIMORI,JPN,2:28:39
+W,Marathon Women,Seoul,1988,G,Rosa MOTA,POR,2:25:40
+W,Marathon Women,Seoul,1988,S,Lisa ONDIEKI,AUS,2:25:53
+W,Marathon Women,Seoul,1988,B,Katrin DÃRRE,GDR,2:26:21
